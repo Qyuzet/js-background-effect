@@ -14,7 +14,12 @@
 
 ## Overview
 
-This repository contains a dynamic background effect built with HTML, CSS, and JavaScript. The effect provides an interactive and visually appealing experience by allowing users to reveal a hidden image by moving their mouse over a designated area.
+This repository contains a dynamic background effect built with HTML, CSS, and JavaScript. The effect provides an interactive and visually appealing experience by allowing users to reveal a hidden image by moving their mouse over a designated area [TRY NOW!](https://qyuzet.github.io/js-background-effect/).
+
+
+![image](https://github.com/user-attachments/assets/206a59f7-734c-4cc0-a032-d4ad57fa2dc6)
+
+
 
 ## Features
 
